@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(281,12): warning C4244:  '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(437,46): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(440,46): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(443,43): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(447,46): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(450,82): warning C4244:  '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(450,67): warning C4244:  '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(450,52): warning C4244:  '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(454,36): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(455,36): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(456,36): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(476,22): warning C4244:  '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(477,22): warning C4244:  '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(483,75): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(484,75): warning C4244:  '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(487,91): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(488,91): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(491,72): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(492,72): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(495,80): warning C4244:  '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(496,80): warning C4244:  '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(501,22): warning C4244:  '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(502,22): warning C4244:  '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(782,9): warning C4477:  'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(782,9): message :  請考慮在格式字串中使用 '%zd'
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(782,9): warning C4477:  'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(782,9): message :  請考慮在格式字串中使用 '%zd'
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(812,47): warning C4267:  '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(845,23): warning C4305:  '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(868,24): warning C4305:  '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(869,23): warning C4305:  '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(881,24): warning C4305:  '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(882,23): warning C4305:  '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\OpenGLFramework-VS2017\main.cpp(893,33): warning C4305:  '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+LINK : warning LNK4098: 預設的程式庫 'MSVCRT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+  OpenGLFramework-VS2017.vcxproj -> C:\Users\User\Desktop\HaiYin\圖學\HW2\AS02_Framework\AS02_Framework\HW2_VS2017_Framework\x64\Debug\OpenGLFramework-VS2017.exe
